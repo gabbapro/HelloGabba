@@ -1,7 +1,7 @@
 # Hello, Gabba!
-A simple hello world web servier
+A simple hello world web server
 ___
-Run a simple web server with a fixed page, containing references to my Cloud Native workshop.
+Scope of this container is to run a simple web server with a fixed page, containing references to the Cloud Native workshop series.
 ___
 ## docker build
 ```
