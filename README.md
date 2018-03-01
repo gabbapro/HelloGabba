@@ -1,6 +1,7 @@
 # Hello, Gabba!
+A simple hello world web servier
 ___
-## Run a simple web server with a fixed page, containing references to my Cloud Native workshop.
+Run a simple web server with a fixed page, containing references to my Cloud Native workshop.
 ___
 ## docker build
 ```
