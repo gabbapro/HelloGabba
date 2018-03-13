@@ -1,7 +1,7 @@
 # Hello, Gabba!
 A simple hello world web server
 ___
-Scope of this container is to run a simple web server with a fixed page, containing references to the Cloud Native workshop series. The resunting Web page is based on a Blogin template (courtesy of www.blogin.co).
+Scope of this container is to run a simple web server with a fixed page, containing references to the Cloud Native workshop series. The resulting Web page is based on a Blogin template (courtesy of www.blogin.co).
 ___
 ## docker build
 ```
